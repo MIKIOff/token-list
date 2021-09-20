@@ -14059,6 +14059,20 @@
         "twitter": "https://twitter.com/polyplaycoin",
         "discord": "https://discord.gg/TAgndUz2Fc"
       }
+      {
+      "chainId": 101,
+      "address": "AvqxBjZuuR3twEVfMdBS2ipNXARdZFr5G7oWmVGnEZGZ",
+      "symbol": "FrenchFries",
+      "name": "French Fries coin",
+      "decimals": 6,
+      "logoURI": "https://w7.pngwing.com/pngs/526/389/png-transparent-minecraft-french-fries-pixel-art-fries-text-rectangle-chibi-thumbnail.png",
+      "tags": [],
+      "extensions": {
+        "website": "",
+        "coingeckoId": "",
+        "twitter": "",
+        "discord": ""
+      }
     }
   ],
   "version": {
